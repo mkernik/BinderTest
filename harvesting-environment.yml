@@ -6,7 +6,3 @@ dependencies:
   - csv
   - urllib.request
   - os
-  - pandas
-  - numpy
-  - IPython.display
-  - base64
