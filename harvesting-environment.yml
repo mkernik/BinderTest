@@ -1,0 +1,8 @@
+name: harvesting-environment
+channels:
+  - conda-forge
+dependencies:
+  - json
+  - csv
+  - urllib.request
+  - os
